@@ -1,0 +1,5 @@
+C:\Users\Hesa\Documents\Git\HesaEngine\HesaEngine\Default Scripts\DravenPort\bin\Debug\DravenPort.dll
+C:\Users\Hesa\Documents\Git\HesaEngine\HesaEngine\Default Scripts\DravenPort\bin\Debug\DravenPort.pdb
+C:\Users\Hesa\Documents\Git\HesaEngine\HesaEngine\Default Scripts\DravenPort\obj\Debug\DravenPort.csprojResolveAssemblyReference.cache
+C:\Users\Hesa\Documents\Git\HesaEngine\HesaEngine\Default Scripts\DravenPort\obj\Debug\DravenPort.dll
+C:\Users\Hesa\Documents\Git\HesaEngine\HesaEngine\Default Scripts\DravenPort\obj\Debug\DravenPort.pdb
