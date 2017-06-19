@@ -1,0 +1,2 @@
+# SnyotSeries
+shitty scripts
